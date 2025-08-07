@@ -13,6 +13,12 @@ GPA: 3.8/4
 
 *Winner of Travelers 2025 Best Senior Project Award*
 
+## 📜 Certifications
+- AWS Cloud Practitioner CLF-C02
+- ISC2 Certified in Cybersecurity (In Progress)
+- dbt Fundamentals
+- Dagster Essentials
+
 ## 🛠 Technical Proficiencies
 - **AI/ML**: TensorFlow, CNNs, GANs, Voice Cloning, Computer Vision
 - **Front-End**: React, Next.js, React Native, Tailwind CSS

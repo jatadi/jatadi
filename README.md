@@ -1,7 +1,7 @@
 # Tadija Ciric
 AI & Full-Stack Software Engineer
 
-📧 tadijaciric@gmail.com | 📍 Hartford, CT | [🔗 LinkedIn](https://www.linkedin.com/in/tadija-ciric/) | [🌐 Portfolio](https://tciric.github.io)
+📧 tadijaciric@gmail.com | 📍 Hartford, CT | [🔗 LinkedIn](https://www.linkedin.com/in/tadija-ciric/) | [🌐 Portfolio](https://jatadi.github.io/tciric.github.io/)
 
 ## 🌟 Professional Synopsis
 Innovative software engineer specializing in AI, cloud architecture, security, and full-stack development. Recognized for developing solutions in healthcare communication, sports analytics, and cloud computing. Winner of the Travelers 2025 Best Senior Project Award for pioneering AI-driven language translation technology. Passionate about leveraging artificial intelligence and cloud technologies to create impactful, scalable solutions.

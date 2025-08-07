@@ -10,6 +10,7 @@ Innovative software engineer specializing in AI, cloud architecture, security, a
 **Trinity College**, Hartford, CT  
 Bachelor of Science in Computer Science, May 2025  
 GPA: 3.8/4
+
 *Winner of Travelers 2025 Best Senior Project Award*
 
 ## 🛠 Technical Proficiencies
@@ -56,6 +57,5 @@ GPA: 3.8/4
 
 ## 📫 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/tadija-ciric/)
-- [GitHub](https://github.com/jatadi)
-- [Portfolio](https://tciric.github.io)
+- [Portfolio]([https://tciric.github.io](https://jatadi.github.io/tciric.github.io/))
 - [Email](mailto:tadijaciric@gmail.com)

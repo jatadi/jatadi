@@ -10,6 +10,7 @@ Innovative software engineer specializing in AI, cloud architecture, security, a
 **Trinity College**, Hartford, CT  
 Bachelor of Science in Computer Science, May 2025  
 GPA: 3.8/4
+Magna cum laude, with honors in Computer Science
 
 *Winner of Travelers 2025 Best Senior Project Award*
 
